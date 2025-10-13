@@ -3,3 +3,4 @@
 [2026-03-12] #0003  Simplified loop with list comprehension  // docs: relatorio final com evidencias recortadas
 [2026-03-12] #0004  Improved variable naming  // docs: adiciona relatorios PT e EN com evidencias recort
 [2026-03-12] #0005  Improved variable naming  // docs: README bilíngue PT + EN
+[2026-03-12] #0006  Patched edge case in parser  // chore: initialize lab structure for SMB brute force
