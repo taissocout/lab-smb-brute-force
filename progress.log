@@ -6,3 +6,4 @@
 [2026-03-12] #0006  Patched edge case in parser  // chore: initialize lab structure for SMB brute force
 [2026-03-12] #0007  Improved variable naming  // docs: add lab objectives and threat model
 [2026-03-12] #0008  Added guard clause  // feat: add Metasploitable2 setup notes
+[2026-03-12] #0009  Updated inline documentation  // feat: document Medusa SMB brute force command
