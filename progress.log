@@ -12,3 +12,4 @@
 [2026-03-12] #0012  Added guard clause  // fix: correct Medusa wordlist path in lab notes
 [2026-03-12] #0013  Fixed off-by-one error  // docs: add attack flow diagram description
 [2026-03-12] #0014  Optimised query performance  // docs: add evidence screenshots section
+[2026-03-12] #0015  Reorganised folder structure  // security: add defensive countermeasures for SMB
