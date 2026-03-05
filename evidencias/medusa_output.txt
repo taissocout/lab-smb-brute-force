@@ -1,0 +1,44 @@
+Medusa v2.3 [http://www.foofus.net] (C) JoMo-Kun / Foofus Networks <jmk@foofus.net>
+
+GENERAL: Parallel Hosts: 1 Parallel Logins: 1
+GENERAL: Total Hosts: 1 
+GENERAL: Total Users: 5
+GENERAL: Total Passwords: 5
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: msfadmin (1 of 5, 0 complete) Password: msfadmin (1 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT FOUND: [smbnt] Host: 192.168.56.101 User: msfadmin Password: msfadmin [SUCCESS (ADMIN$ - Access Allowed)]
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 5, 1 complete) Password: msfadmin (1 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 5, 1 complete) Password: 123456 (2 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 5, 1 complete) Password: password (3 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 5, 1 complete) Password: admin (4 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: admin (2 of 5, 1 complete) Password: toor (5 of 5 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (3 of 5, 2 complete) Password: msfadmin (1 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (3 of 5, 2 complete) Password: 123456 (2 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (3 of 5, 2 complete) Password: password (3 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (3 of 5, 2 complete) Password: admin (4 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: user (3 of 5, 2 complete) Password: toor (5 of 5 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: root (4 of 5, 3 complete) Password: msfadmin (1 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: root (4 of 5, 3 complete) Password: 123456 (2 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: root (4 of 5, 3 complete) Password: password (3 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: root (4 of 5, 3 complete) Password: admin (4 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: root (4 of 5, 3 complete) Password: toor (5 of 5 complete)
+GENERAL: smbnt.mod: Server requested ENCRYPTED password without security signatures.
+GENERAL: smbnt.mod: Server machine name: 
+GENERAL: smbnt.mod: Server primary domain: WORKGROUP
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: guest (5 of 5, 4 complete) Password: msfadmin (1 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: guest (5 of 5, 4 complete) Password: 123456 (2 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: guest (5 of 5, 4 complete) Password: password (3 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: guest (5 of 5, 4 complete) Password: admin (4 of 5 complete)
+2026-03-05 18:57:59 ACCOUNT CHECK: [smbnt] Host: 192.168.56.101 (1 of 1, 0 complete) User: guest (5 of 5, 4 complete) Password: toor (5 of 5 complete)
+GENERAL: Medusa has finished.

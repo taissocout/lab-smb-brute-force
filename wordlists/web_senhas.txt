@@ -1,0 +1,8 @@
+password
+admin
+123456
+msfadmin
+letmein
+qwerty
+abc123
+toor
