@@ -15,3 +15,4 @@
 [2026-03-12] #0015  Reorganised folder structure  // security: add defensive countermeasures for SMB
 [2026-03-12] #0016  Reviewed setup instructions  // docs: add MITRE ATT&CK mapping for brute force
 [2026-03-12] #0017  Centralised constants  // refactor: reorganize lab sections for clarity
+[2026-03-12] #0018  Extracted helper function  // docs: add network topology diagram
