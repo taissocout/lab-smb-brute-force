@@ -14,3 +14,4 @@
 [2026-03-12] #0014  Optimised query performance  // docs: add evidence screenshots section
 [2026-03-12] #0015  Reorganised folder structure  // security: add defensive countermeasures for SMB
 [2026-03-12] #0016  Reviewed setup instructions  // docs: add MITRE ATT&CK mapping for brute force
+[2026-03-12] #0017  Centralised constants  // refactor: reorganize lab sections for clarity
